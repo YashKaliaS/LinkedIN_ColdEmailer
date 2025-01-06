@@ -1,6 +1,3 @@
-Here's a sample README for your LinkedIn Cold Email Generator project that includes the features, installation steps, and libraries used:
-
----
 
 # LinkedIn Cold Email Generator
 
